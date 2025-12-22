@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  background: #631414;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
